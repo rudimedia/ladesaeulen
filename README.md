@@ -1,4 +1,5 @@
 # Datenquellen für die Sitzverteilungen innerhalb der Kreise und kreisfreien Städte
+### Abrufdatum der aufgeführten Quellen ist der 1. August 2024.
 
 ## Schleswig-Holstein "swh"
 ### Statistik Nord
